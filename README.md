@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there 👋, I am Bhawesh Choudhary ! An Aero Guy Who's Learning To Code & Contribute To Open Source. Writing Blogs While Sipping Hot Coffee !!
 
-<!--
-**bhaweshchoudhary/bhaweshchoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- I'm a 2nd-year B. Tech. (ECE) student at the University Institute of Technology RGPV.
+- Passionate about Data Science, Web Development & ML.
+- Looking to collaborate with other developers. 
+- Learning more tools and technologies to contribute to projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Toolbox
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Java-4BC0F4?style=for-the-badge&logo=java&logoColor=black)
+![](https://img.shields.io/badge/Git-3E2C00?style=for-the-badge&logo=git&logoColor=F1502F)
+![](https://img.shields.io/badge/GitHub-fafafa?style=for-the-badge&logo=github&logoColor=4078c0)
+
+---
+    
+## &#x1f4c8; My GitHub Stats
+| Bhawesh's GitHub Stats | GitHub Streak |
+| --- | --- |
+[![Bhawesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaweshchoudhary&show_icons=true)](https://github.com/bhaweshchoudhary) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhaweshchoudhary)](https://github.com/bhaweshchoudhary) |
+
+---
