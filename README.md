@@ -26,3 +26,4 @@
 [![Bhawesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaweshchoudhary19&show_icons=true)](https://github.com/bhaweshchoudhary19) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhaweshchoudhary19)](https://github.com/bhaweshchoudhary19) |
 
 ---
+[![An image of @bhaweshchoudhary19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhaweshchoudhary19)](https://holopin.io/@bhaweshchoudhary19)
