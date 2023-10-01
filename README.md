@@ -23,6 +23,6 @@
 ## &#x1f4c8; My GitHub Stats
 | Bhawesh's GitHub Stats | GitHub Streak |
 | --- | --- |
-[![Bhawesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaweshchoudhary&show_icons=true)](https://github.com/bhaweshchoudhary) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhaweshchoudhary)](https://github.com/bhaweshchoudhary) |
+[![Bhawesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaweshchoudhary19&show_icons=true)](https://github.com/bhaweshchoudhary19) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhaweshchoudhary19)](https://github.com/bhaweshchoudhary19) |
 
 ---
