@@ -6,6 +6,9 @@
 
 ###
 
+![Bhawesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaweshchoudhary19&theme=great-getsby&show_icons=true)
+
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
