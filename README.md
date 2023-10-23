@@ -64,14 +64,5 @@
 </div>
 
 ###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-</div>
-
-###
 ---
 [![An image of @bhaweshchoudhary19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhaweshchoudhary19)](https://holopin.io/@bhaweshchoudhary19)
