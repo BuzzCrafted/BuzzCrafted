@@ -7,7 +7,6 @@
 ###
 
 ![Bhawesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaweshchoudhary19&theme=great-getsby&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaweshchoudhary19&size_weight=0.5&count_weight=0.5)
 
 ###
 <div align="left">
