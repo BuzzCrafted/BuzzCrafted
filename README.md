@@ -47,6 +47,9 @@
 </div>
 
 ---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhaweshchoudhary19&theme=gruvbox)](https://git.io/streak-stats)
+
+---
 
 [![An image of @bhaweshchoudhary19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhaweshchoudhary19)](https://holopin.io/@bhaweshchoudhary19)
 
