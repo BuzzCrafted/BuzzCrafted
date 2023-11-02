@@ -47,5 +47,8 @@
 </div>
 
 ---
-https://holopin.me/bhaweshchoudhary19)](https://holopin.io/@bhaweshchoudhary19
+
+[![An image of @bhaweshchoudhary19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhaweshchoudhary19)](https://holopin.io/@bhaweshchoudhary19)
+
+
 ---
