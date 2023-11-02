@@ -47,7 +47,8 @@
 </div>
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhaweshchoudhary19&theme=gruvbox)](https://git.io/streak-stats)
+A passionate Front-End Web Developer with a love for creating beautiful and interactive web experiences. I specialize in crafting user-friendly interfaces and turning design concepts into responsive, pixel-perfect websites. Let's bring your web projects to life together!
+
 
 ---
 
