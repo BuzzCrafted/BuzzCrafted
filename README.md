@@ -48,6 +48,7 @@
 
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhaweshchoudhary19&theme=gruvbox)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bhaweshchoudhary19&theme=gruvbox" alt="GitHub Streak" /></a>
 
 ---
 
