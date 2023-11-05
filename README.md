@@ -37,8 +37,8 @@
 ### 🚀 About Me
 - I'm a 2nd-year B. Tech. (ECE) student at the University Institute of Technology RGPV.
 - Passionate about Space, Web Development, Data Science, ML and DevOps.
-- Looking to collaborate with other developers. 
-- Learning more tools and technologies which are mentioned below to build big projects.
+- Looking forward to connect, collaborate & create with other developers. 
+- Learning more tools and technologies to enhance my tech stack & contribute to projects.
 
 ---
 
