@@ -1,4 +1,4 @@
-<h1 align="left">HellOoOo !👋 I'm Bhawesh Choudhary, An Aero Guy Who Can Code & dreams to Brew Space:)</h1>
+<h1 align="left">HellOoOo !👋 I'm Bhawesh Choudhary, An Aero Guy Who Can Code & Brewing Tech Spaces</h1>
 
 <img align="right" height="150" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif"  />
 
@@ -36,7 +36,7 @@
 
 ### 🚀 About Me
 - I'm a 2nd-year B. Tech. (ECE) student at the University Institute of Technology RGPV.
-- Passionate about Space, Web Development, Data Science, ML and DevOps.
+- Passionate about Tech especially Space, Web Development, Data Science, ML and DevOps.
 - Looking forward to connect, collaborate & create with other developers. 
 - Learning more tools and technologies to enhance my tech stack & contribute to projects.
 
