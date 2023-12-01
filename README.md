@@ -5,6 +5,7 @@
 ###
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuzzCrafted)](https://github.com/BuzzCrafted/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuzzCrafted&show_icons=true&theme=radical)
 
 ###
 <div align="left">
