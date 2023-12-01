@@ -4,7 +4,7 @@
 
 ###
 
-![Bhawesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaweshchoudhary19&theme=great-getsby&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuzzCrafted)](https://github.com/BuzzCrafted/github-readme-stats)
 
 ###
 <div align="left">
