@@ -5,8 +5,8 @@
 ###
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuzzCrafted&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuzzCrafted&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaptainShaqX&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainShaqX&layout=compact)
 
 ###
 <div align="left">
