@@ -2,11 +2,7 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif"  />
 
-###
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaptainShaqX&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainShaqX&layout=compact)
 
 ###
 <div align="left">
