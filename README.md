@@ -47,7 +47,6 @@
 
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/X5re9Nmn4gQXwyFmFt/giphy.gif"  />
-  <a href="https://app.daily.dev/captainshaqx"><img height="200" width="200" src="https://api.daily.dev/devcards/6cf46f39b1b24562af6657e52fca720c.png?r=dfe" width="400" alt="Bhawesh Choudhary's Dev Card"/></a>
 </div>
 
 ---
