@@ -44,12 +44,6 @@
 - Learning more tools and technologies to enhance my tech stack & contribute to projects.
 
 ---
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/X5re9Nmn4gQXwyFmFt/giphy.gif"  />
-</div>
-
----
 A passionate Front-End Web Developer with a love for creating beautiful and interactive web experiences. I specialize in crafting user-friendly interfaces and turning design concepts into responsive, pixel-perfect websites. Let's bring your web projects to life together!
 
 
@@ -59,3 +53,9 @@ A passionate Front-End Web Developer with a love for creating beautiful and inte
 
 
 ---
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/X5re9Nmn4gQXwyFmFt/giphy.gif"  />
+</div>
+<div align="center">
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="BhaweshChoudhary" data-color="#FFDD00" data-emoji=""  data-font="Poppins" data-text="Buy me a pizza" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+</div>
