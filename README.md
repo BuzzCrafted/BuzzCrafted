@@ -55,9 +55,9 @@
 - I do binge watch shows on weekens ( "The Big Bang Theory" is my most loved one )
 
 
-<p align="left"> 
+<p align="center"> 
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=u0c69mrp9ohhojzb14rfvbdov&cover_image=true&theme=default&show_offline=false&background_height="150"color=121212&interchange=false)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=u0c69mrp9ohhojzb14rfvbdov&cover_image=true&theme=natemoo-re&show_offline=false&background_height="150"color=121212&interchange=false)
 
 </p>
 </div>
