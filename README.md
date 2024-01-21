@@ -37,7 +37,8 @@
 
 ---
 
-### 🚀 About Me 
+
+🚀 About Me 
 - I'm a 2nd-year B. Tech. (ECE) student at the University Institute of Technology RGPV.
 - Passionate about Tech especially Space, Web Development, Data Science, ML and DevOps.
 - Looking forward to connect, collaborate & create with other developers. 
@@ -48,7 +49,7 @@
 A passionate Front-End Web Developer with a love for creating beautiful and interactive web experiences. I specialize in crafting user-friendly interfaces and turning design concepts into responsive, pixel-perfect websites. Let's bring your web projects to life together!
 
 ---
-<div align = "center" > 
+<h1 align="left"> 
 ### 😎 Hobbies 
 - I like Conversations with Coffee ☕ :)
 - Listening to Music 🎶 , I love these musical instruments : Sitar, Drums, Electric Guitar, Acoustic Guitar (In that Order lol XD ).
@@ -56,8 +57,8 @@ A passionate Front-End Web Developer with a love for creating beautiful and inte
 - I love to travel a lot 🧳 .
 - I love reading a lot 📚.
 - I do binge watch shows on weekens ( "The Big Bang Theory" is my most loved one )
----
-</div>
+
+</h1>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=u0c69mrp9ohhojzb14rfvbdov&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=u0c69mrp9ohhojzb14rfvbdov&redirect=true)
 
