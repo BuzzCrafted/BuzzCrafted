@@ -46,6 +46,17 @@
 ---
 A passionate Front-End Web Developer with a love for creating beautiful and interactive web experiences. I specialize in crafting user-friendly interfaces and turning design concepts into responsive, pixel-perfect websites. Let's bring your web projects to life together!
 
+<h1> Hobbies </h1>
+- I like Conversations with Coffee ☕ :)
+- Listening to Music 🎶 , I love these musical instruments : Sitar, Drums, Electric Guitar, Acoustic Guitar (In that Order lol XD ).
+- I'm a Foodie 🍕 .
+- I love to travel a lot 🧳 .
+- I love reading a lot 📚.
+- I do binge watch shows on weekens ( "The Big Bang Theory" is my most loved one )
+---
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=u0c69mrp9ohhojzb14rfvbdov&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=u0c69mrp9ohhojzb14rfvbdov&redirect=true)
+
 ---
 
 [![An image of @bhaweshchoudhary19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhaweshchoudhary19)](https://holopin.io/@bhaweshchoudhary19)
