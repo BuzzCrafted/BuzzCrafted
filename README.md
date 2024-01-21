@@ -57,7 +57,7 @@
 
 <p align="left"> 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=u0c69mrp9ohhojzb14rfvbdov&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=u0c69mrp9ohhojzb14rfvbdov&cover_image=true&theme=default&show_offline=false&background_height="150"color=121212&interchange=false)
 
 </p>
 </div>
