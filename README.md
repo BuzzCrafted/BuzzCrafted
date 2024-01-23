@@ -38,8 +38,10 @@
 
 ###
 
-
+<h3 align = "left">
 🚀 About Me 
+</h3>
+
 - I'm a 2nd-year B. Tech. (ECE) student at the University Institute of Technology RGPV.
 - Passionate about Tech especially Space, Web Development, Data Science, ML and DevOps.
 - Looking forward to connect, collaborate & create with other developers. 
@@ -47,7 +49,10 @@
 
 ###
 
-😎 Hobbies 
+
+<h3 align = "left">
+😎 Hobbies </h3>
+
 - I like Conversations with Coffee ☕ :)
 - Listening to Music 🎶 , I love playing or Listening these musical instruments : Sitar, Drums, Electric Guitar, Acoustic Guitar (In that Order lol XD ).
 - I'm a Foodie 🍕 .
@@ -58,7 +63,8 @@
 
 ### 
 
-<h3 align="left"> Now Playing 👇 </h3>
+Now Playing 👇 
+
 [![Spotify](https://spotifyreadmecaptainshaq.vercel.app/api/spotify)](https://open.spotify.com/user/u0c69mrp9ohhojzb14rfvbdov)
 
 ###
