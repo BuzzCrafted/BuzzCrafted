@@ -59,7 +59,7 @@
 
 ### 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=u0c69mrp9ohhojzb14rfvbdov&count={count})
+[![Spotify](https://spotifyreadmecaptainshaq.vercel.app/api/spotify)](https://open.spotify.com/user/u0c69mrp9ohhojzb14rfvbdov)
 
 ###
 
