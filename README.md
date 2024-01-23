@@ -48,12 +48,13 @@
 
 😎 Hobbies 
 - I like Conversations with Coffee ☕ :)
-- Listening to Music 🎶 , I love these musical instruments : Sitar, Drums, Electric Guitar, Acoustic Guitar (In that Order lol XD ).
+- Listening to Music 🎶 , I love playing or Listening these musical instruments : Sitar, Drums, Electric Guitar, Acoustic Guitar (In that Order lol XD ).
 - I'm a Foodie 🍕 .
 - I love to travel a lot 🧳 .
-- I love reading a lot 📚.
-- I do binge watch shows on weekends ( "The Big Bang Theory" is my most loved one )
+- I like reading a lot 📚.
+- I do binge watch shows on weekends ( "The Big Bang Theory" is my most loved one, PS: May the Force be with YOuUuuUuh !! ) ✌️.
 
+<P> What I'm Currently Listening too ? 👇 </P>
 
 <p align="center"> 
 
