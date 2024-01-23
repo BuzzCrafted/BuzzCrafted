@@ -52,7 +52,7 @@
 - I'm a Foodie 🍕 .
 - I love to travel a lot 🧳 .
 - I love reading a lot 📚.
-- I do binge watch shows on weekens ( "The Big Bang Theory" is my most loved one )
+- I do binge watch shows on weekends ( "The Big Bang Theory" is my most loved one )
 
 
 <p align="center"> 
