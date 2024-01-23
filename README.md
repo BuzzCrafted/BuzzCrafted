@@ -5,6 +5,7 @@
 
 
 ###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -35,7 +36,7 @@
  
 </div>
 
----
+###
 
 
 🚀 About Me 
@@ -44,7 +45,7 @@
 - Looking forward to connect, collaborate & create with other developers. 
 - Learning more tools and technologies to enhance my tech stack & contribute to projects.
 
----
+###
 
 😎 Hobbies 
 - I like Conversations with Coffee ☕ :)
@@ -58,18 +59,17 @@
 
 ### 
 
-<p align="left"> <a href="https://open.spotify.com/user/u0c69mrp9ohhojzb14rfvbdov"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=u0c69mrp9ohhojzb14rfvbdov&count=4" alt="Spotify Recently played" target="blank"/></a> </p>
-</p>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=u0c69mrp9ohhojzb14rfvbdov&count={count})
 
 ###
----
+
 
 [![An image of @bhaweshchoudhary19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhaweshchoudhary19)](https://holopin.io/@bhaweshchoudhary19)
 
 
----
+###
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/X5re9Nmn4gQXwyFmFt/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/X5re9Nmn4gQXwyFmFt/giphy.gif"  />
 </div>
 <div align="center">
   <h3>Support:</h3>
