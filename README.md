@@ -56,11 +56,12 @@
 
 <P> What I'm Currently Listening too ? 👇 </P>
 
-  
-<p align="left"> <a href="https://open.spotify.com/user/u0c69mrp9ohhojzb14rfvbdov"><img src="https://spotify-recently-played-readme.vercel.app/api?user=u0c69mrp9ohhojzb14rfvbdov&count=4" alt="Spotify Recently played" target="blank"/></a> </p>
+### 
+
+<p align="left"> <a href="https://open.spotify.com/user/u0c69mrp9ohhojzb14rfvbdov"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=u0c69mrp9ohhojzb14rfvbdov&count=4" alt="Spotify Recently played" target="blank"/></a> </p>
 </p>
 
-
+###
 ---
 
 [![An image of @bhaweshchoudhary19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhaweshchoudhary19)](https://holopin.io/@bhaweshchoudhary19)
