@@ -55,12 +55,12 @@
 - I like reading a lot 📚.
 - I do binge watch shows on weekends ( "The Big Bang Theory" is my most loved one, PS: May the Force be with YOuUuuUuh !! ) ✌️.
 
-<P> What I'm Currently Listening too ? 👇 </P>
 
 ### 
 
+<h3 align="left"> Now Playing 
 [![Spotify](https://spotifyreadmecaptainshaq.vercel.app/api/spotify)](https://open.spotify.com/user/u0c69mrp9ohhojzb14rfvbdov)
-
+</h3>
 ###
 
 
