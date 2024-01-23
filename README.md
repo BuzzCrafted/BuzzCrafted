@@ -57,9 +57,9 @@
 <P> What I'm Currently Listening too ? 👇 </P>
 
 <p align="center"> 
-
+<a href="https://open.spotify.com/user/u0c69mrp9ohhojzb14rfvbdov">
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=u0c69mrp9ohhojzb14rfvbdov&cover_image=true&theme=natemoo-re&show_offline=false&background_height="150"color=121212&interchange=false)
-
+</a>
 </p>
 </div>
 
