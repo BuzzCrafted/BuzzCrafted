@@ -25,8 +25,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" height="30" alt="codepen logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
@@ -39,13 +37,14 @@
 ###
 
 <h3 align = "left">
-🚀 About Me 
+🚀 Here's a little about me
 </h3>
 
-- I'm a 2nd-year B. Tech. (ECE) student at the University Institute of Technology RGPV.
-- Passionate about Tech especially Space, Web Development, Data Science, ML and DevOps.
+- I'm a Sophomore, Pursuing my BS Degree in "Data Science & Applications" along with that I'm B.tech undergrad in "Electronics & Communication Engineering"  
+- Passionate about Technologies especially in Software Development, Web Development, Data Science, ML and DevOps (Last but not the least, SPACE :)
 - Looking forward to connect, collaborate & create with other developers. 
 - Learning more tools and technologies to enhance my tech stack & contribute to projects.
+- Currently learing About -> AWS
 
 ###
 
@@ -58,10 +57,15 @@
 - I'm a Foodie 🍕 .
 - I love to travel a lot 🧳 .
 - I like reading a lot 📚.
+- You can find me playing Chess sometimes, during lectures (not recommended tbh XD) ♟️.
 - I do binge watch shows on weekends ( "The Big Bang Theory" is my most loved one, PS: May the Force be with YOuUuuUuh !! ) ✌️.
 
 
 ### 
+
+<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=`bhaweshchoudhary`"/>
+
+###
 
 Now Playing 👇 
 
