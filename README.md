@@ -63,11 +63,25 @@
 
 ### 
 
-<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=`bhaweshchoudhary`"/>
+
+<h3 align = "left">
+📝Checkout some of my recent blogs </h3>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bhaweshchoudhary/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bhaweshchoudhary/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bhaweshchoudhary/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bhaweshchoudhary/1" alt="Recent Article 1"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bhaweshchoudhary/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bhaweshchoudhary/3" alt="Recent Article 3"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bhaweshchoudhary/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bhaweshchoudhary/4" alt="Recent Article 4"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bhaweshchoudhary/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bhaweshchoudhary/6" alt="Recent Article 6"> 
 
 ###
 
-Now Playing 👇 
+
+<h3 align = "left">
+Now Playing 👇</h3>  
 
 [![Spotify](https://spotifyreadmecaptainshaq.vercel.app/api/spotify)](https://open.spotify.com/user/u0c69mrp9ohhojzb14rfvbdov)
 
