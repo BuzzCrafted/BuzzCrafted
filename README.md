@@ -40,11 +40,11 @@
 🚀 Here's a little about me
 </h3>
 
-- I'm a Sophomore, Pursuing my BS Degree in "Data Science & Applications" along with that I'm B.tech undergrad in "Electronics & Communication Engineering"  
+- I'm a tech enthusiast Pursuing my BS Degree in "Data Science & Applications" along with that I'm B.tech undergrad in "Electronics & Communication Engineering"  
 - Passionate about Technologies especially in Software Development, Web Development, Data Science, ML and DevOps (Last but not the least, SPACE :)
 - Looking forward to connect, collaborate & create with other developers. 
 - Learning more tools and technologies to enhance my tech stack & contribute to projects.
-- Currently learing About -> AWS
+- Currently learing About -> AWS, Azure, GCP
 
 ###
 
