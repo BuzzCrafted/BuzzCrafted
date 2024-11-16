@@ -80,14 +80,6 @@
 ###
 
 
-<h3 align = "left">
-Now Playing 👇</h3>  
-
-[![Spotify](https://spotifyreadmecaptainshaq.vercel.app/api/spotify)](https://open.spotify.com/user/u0c69mrp9ohhojzb14rfvbdov)
-
-###
-
-
 [![An image of @bhaweshchoudhary19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhaweshchoudhary19)](https://holopin.io/@bhaweshchoudhary19)
 
 
