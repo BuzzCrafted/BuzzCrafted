@@ -1,4 +1,5 @@
 <h1 align="left">HellOoOo !👋 Thanks for visiting.  I'm Bhawesh Choudhary, An AeroAstro Guy learning to code & Brew Tech Spaces.</h1>
+<h2> I talk about CS Stuffs on Weekends :) </h2>
 
 <img align="right" height="150" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif"  />
 
