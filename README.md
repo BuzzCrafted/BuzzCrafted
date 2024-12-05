@@ -40,7 +40,7 @@
 <h3 align = "left">
 🚀 Here's a little about me
 </h3>
-
+- Currently Learning --> ML
 - I'm a tech enthusiast Pursuing my BS Degree in "Data Science & Applications" along with that I'm B.tech undergrad in "Electronics & Communication Engineering"  
 - Passionate about Technologies especially in Software Development, Web Development, Data Science, ML and DevOps (Last but not the least, SPACE :)
 - Looking forward to connect, collaborate & create with other developers. 
